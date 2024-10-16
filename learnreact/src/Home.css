@@ -1,0 +1,36 @@
+.home{
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    justify-self: flex-start;
+    flex:1;
+
+    overflow-x:hidden;
+    overflow-y: scroll;
+
+}
+.t{
+    cursor:pointer;
+    text-decoration: none;
+    color:black
+}
+.t:hover{
+    color:rgb(134, 57, 155);
+}
+.homepage{
+    padding:1em;
+    border-bottom: 1px solid black;
+}
+.homepage .p{
+    padding:1.2em 0em 0.4em 0em;
+    font-size:18px ;
+}
+.nopost p{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size:30px ;
+    height:75vh;
+   
+}

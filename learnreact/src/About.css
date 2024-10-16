@@ -1,0 +1,16 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width:100%;
+    padding: 1em;
+    flex:1;
+}
+.about h2{
+    font-size:28px ;
+    
+}
+.about p{
+    padding:1em 0em ;
+    font-size:19px ;
+}

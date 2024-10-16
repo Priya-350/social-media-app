@@ -1,0 +1,46 @@
+.new{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    justify-content: flex-start;
+   padding:1em;
+   overflow-y: scroll;
+   flex:1;
+}
+.new form{
+    display: flex;
+    flex-direction: column;
+    
+}
+.new h1{
+    padding-bottom:0.6em ;
+}
+.new form label{
+    font-size: 20px;
+    padding: 0.4em 0em;
+}
+.new form #newpost{
+    width:90%;
+   padding:0.4em;
+   font-size:17px ;
+}
+.new form #newpost1{
+    width:90%;
+    padding:0.4em;
+    font-size:17px ;
+    
+}
+.new form .button{
+      
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding-top:1em ;
+      
+}
+.new form .button button{
+    padding:0.4em 0.8em ;
+    font-size:18px;
+    
+}

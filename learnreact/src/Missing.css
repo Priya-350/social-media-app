@@ -1,0 +1,22 @@
+.missing{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    width:100%;
+    padding: 1em;
+    flex:1;
+}
+.missing h2{
+    font-size:25px ;
+}
+.missing p{
+   font-size:19px ;
+   padding: 0.5em 0em;
+}
+.missing #link{
+    font-size:16px ;
+    padding: 0em 0em;
+    text-decoration: none;
+}
